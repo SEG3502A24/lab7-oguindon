@@ -1,3 +1,6 @@
+Name: Olivier Guindon
+Student Number: 300236168
+
 # BookStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
